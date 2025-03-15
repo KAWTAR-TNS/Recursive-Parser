@@ -1,4 +1,4 @@
-Recursive Parser
+#Recursive Parser
 Recursive Parser is a Java-based application designed to visualize recursive parsing techniques. It provides an interactive graphical interface built with Java Swing, making it easier to understand how recursive parsing works.
 
 Features:
