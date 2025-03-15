@@ -1,17 +1,22 @@
-#Recursive Parser
-Recursive Parser is a Java-based application designed to visualize recursive parsing techniques. It provides an interactive graphical interface built with Java Swing, making it easier to understand how recursive parsing works.
+# Recursive Parser
 
-Features:
-Graphical representation of recursive parsing algorithms
-Built with Java Swing for an interactive UI
-Lightweight and easy to run
-How to Run:
-Ensure you have Java 22 installed.
-Run the application with:
-sh
-Copy
-Edit
-java -jar RecursiveParser.jar
-Usage:
-This tool is useful for students, educators, and developers who want to explore recursive parsing algorithms in an interactive way.
+A Java-based graphical application that visually represents recursive parsing algorithms. This project demonstrates recursive descent parsing techniques using an interactive user interface.
 
+## Features  
+✅ GUI-based visualization of recursive parsing  
+✅ Supports different parsing strategies  
+✅ Built with **Java 22, Swing, and AWT**  
+✅ Lightweight and easy to run  
+
+## Technologies Used  
+- **Language**: Java 22  
+- **GUI**: Java Swing, AWT  
+- **Build Tool**: JDK `jar` command  
+- **IDE**: Eclipse  
+
+## Installation & Usage  
+
+### 1. Prerequisites  
+Ensure you have **Java 22** installed:  
+```sh
+java -version
