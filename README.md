@@ -1,14 +1,14 @@
 # Recursive Parser  
 
-## 📌 Project Description  
+##  Project Description  
 Recursive Parser is a Java-based application that demonstrates recursive parsing techniques through a graphical user interface. It features a simple interactive frame, helping users visualize recursive parsing in action.  
 
-## 🚀 Technologies Used  
+##  Technologies Used  
 - **Java** (Core logic and GUI)  
 - **Swing/AWT** (User Interface)  
 - **JDK 17+** (Ensure compatibility)  
 
-## 🔧 How to Run the Project  
+##  How to Run the Project  
 
 ### 1️⃣ Running from Source Code  
 1. Ensure you have **Java 17 or higher** installed.  
